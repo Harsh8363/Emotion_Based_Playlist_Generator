@@ -1,5 +1,5 @@
 # config.py
 import os
 
-SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID", "b241ca281fb440699344de3dda21167b")
-SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", "bb012484161f41ee88b5f2eb0e362539")
+SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID", "your_spotify_client_id")
+SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", "your_spotify_client_secret")
